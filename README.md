@@ -1,16 +1,8 @@
-# text_game
+# Text Game
 
-A new Flutter project.
+Um aplicativo simples em Flutter, baseado nos games de adventure text.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1570103142](https://user-images.githubusercontent.com/30444471/66150636-00cd2e00-e5ec-11e9-860a-a21075866198.png)
+![Screenshot_1570124508](https://user-images.githubusercontent.com/30444471/66150637-00cd2e00-e5ec-11e9-83e4-e17c3bce0c55.png)
